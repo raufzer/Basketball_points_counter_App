@@ -1,4 +1,4 @@
-## Basketball Points Counter
+# Basketball Points Counter
 This is a Flutter app that allows you to keep track of the points scored by two basketball teams during a game. The app features a simple user interface that makes it easy to update the score in real-time, and can be run on both iOS and Android devices.
 
 ## Getting Started
